@@ -4,3 +4,20 @@
     width: 30%;
     text-align: center;
 }
+
+.box{
+height: 100px;
+overflow: hidden;
+}
+
+.box-gold{
+    background-color: gold;
+}
+
+.box-tomato{
+    background-color: tomato;
+}
+
+.box-dodgerblue{
+    background-color: dodgerblue;
+}
