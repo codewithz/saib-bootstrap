@@ -1,6 +1,6 @@
 .card-inline{
-    display: inline-block;
-    width: 33%;
     margin-right: 20px;
+    display: inline-block;
+    width: 30%;
     text-align: center;
 }
